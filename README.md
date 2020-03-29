@@ -1,5 +1,11 @@
-# Node.js and express demo project
+# Building RESTful APIs with Express
 
-###Author
+## Usage
+
+Nodemon to make your life easy
+Export PORT example
+
+#### Author
+
 Diyan Georgiev
 Github: dbrowse
